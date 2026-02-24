@@ -39,3 +39,10 @@ Local development environments for Python:
 
 ## 📆 Week 1:
 
+- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/rsc/1-Apresentacao.pptx)
+
+---
+
+## 📆 Week 2:
+
+- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/rsc/2-Git-Workflow.pptx)
