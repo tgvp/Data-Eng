@@ -47,3 +47,14 @@ Local development environments for Python:
 
 - [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/rsc/2-Pipeline-Architectures.pptx)
 - [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/rsc/2-Git-Workflow.pptx)
+
+---
+
+## 📆 Week 3:
+
+- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/rsc/3-Virtualization-Containers.pptx)
+### 📂 Docker & SQL
+
+- [![docker-compose.yml](https://img.shields.io/badge/docker--compose.yml-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/etc/docker-compose.yml)
+- [![extra-docker-compose.yml](https://img.shields.io/badge/extra--docker--compose.yml-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/etc/extra-docker-compose.yml)
+- [![init.sql](https://img.shields.io/badge/init.sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/etc/init.sql)
