@@ -208,3 +208,6 @@ __marimo__/
 
 # adm dir
 adm/
+
+# ignore windows temporary files
+~$*
