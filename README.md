@@ -58,3 +58,12 @@ Local development environments for Python:
 - [![docker-compose.yml](https://img.shields.io/badge/docker--compose.yml-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/etc/docker-compose.yml)
 - [![extra-docker-compose.yml](https://img.shields.io/badge/extra--docker--compose.yml-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/etc/extra-docker-compose.yml)
 - [![init.sql](https://img.shields.io/badge/init.sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/etc/init.sql)
+
+## 📆 Week 4:
+
+- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/rsc/4-NoSQL.pptx)
+### 📂 Docker & SQL
+
+- [![mongo-docker-compose.yml](https://img.shields.io/badge/docker--compose.yml-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/etc/mongo-docker-compose.yml)
+- [![init.js](https://img.shields.io/badge/init.js-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/etc/init.js)
+- [![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/try/download/compass)
