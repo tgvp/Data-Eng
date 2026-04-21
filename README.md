@@ -62,8 +62,9 @@ Local development environments for Python:
 ## 📆 Week 4:
 
 - [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/rsc/4-NoSQL.pptx)
-### 📂 Docker & SQL
+### 📂 Docker & NoSQL
 
 - [![mongo-docker-compose.yml](https://img.shields.io/badge/docker--compose.yml-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/etc/mongo-docker-compose.yml)
 - [![init.js](https://img.shields.io/badge/init.js-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/etc/init.js)
 - [![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/try/download/compass)
+- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/doc/4-STEP-BY-STEP.md)
