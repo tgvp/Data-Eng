@@ -68,3 +68,26 @@ Local development environments for Python:
 - [![init.js](https://img.shields.io/badge/init.js-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/etc/init.js)
 - [![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/try/download/compass)
 - [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/doc/4-STEP-BY-STEP.md)
+
+---
+
+## 📆 Week 5:
+
+- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/rsc/5-Python-MongoDB-PyMongo.pptx)
+### 📂 PyMongo & Ingestion
+
+- [![student-notebook](https://img.shields.io/badge/student-notebook-F9AB00?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/prj/notebooks/5-pymongo-crud-ingestion-student.ipynb)
+- [![solution-notebook](https://img.shields.io/badge/solution-notebook-E65100?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/prj/notebooks/5-pymongo-crud-ingestion-solution.ipynb)
+- [![student--mat.csv](https://img.shields.io/badge/student--mat.csv-9C27B0?style=for-the-badge&logo=files&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/raw/uci-student-performance/dataset/student-mat.csv)
+- [![student--por.csv](https://img.shields.io/badge/student--por.csv-9C27B0?style=for-the-badge&logo=files&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/raw/uci-student-performance/dataset/student-por.csv)
+
+---
+
+## 📆 Week 6:
+
+- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/rsc/6-Data-Wrangling-Student-Performance.pptx)
+### 📂 Data Wrangling
+
+- [![student-notebook](https://img.shields.io/badge/student-notebook-F9AB00?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/prj/notebooks/6-student-performance-wrangling-student.ipynb)
+- [![student--mat--dirty.csv](https://img.shields.io/badge/student--mat--dirty.csv-9C27B0?style=for-the-badge&logo=files&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/raw/uci-student-performance/dirty/student-mat-dirty.csv)
+- [![student--por--dirty.csv](https://img.shields.io/badge/student--por--dirty.csv-9C27B0?style=for-the-badge&logo=files&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/raw/uci-student-performance/dirty/student-por-dirty.csv)
