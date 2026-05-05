@@ -84,7 +84,7 @@ Local development environments for Python:
 
 ## 📆 Week 6:
 
-- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/rsc/6-Data-Wrangling-Student-Performance.pptx)
+- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/rsc/6-Data-Wrangling.pptx)
 ### 📂 Data Wrangling
 
 - [![student-notebook](https://img.shields.io/badge/student-notebook-F9AB00?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/tgvp/Data-Eng/blob/main/prj/notebooks/6-data-wrangling-student.ipynb)
