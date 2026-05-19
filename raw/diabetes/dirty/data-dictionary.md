@@ -7,7 +7,7 @@
 | `Skin Thickness` | Triceps skin fold thickness (mm). | Numeric |
 | `Insulin` | 2-Hour serum insulin (mu U/ml). | Numeric |
 | `Body Mass Index` | Body mass index (weight in kg/(height in m)^2). | Numeric |
-| `Diabetes Pedigree Function` | Diabetes pedigree function. | Numeric |
+| `Diabetes Pedigree Function` | Numeric score that summarizes the likelihood of diabetes based on family history. | Numeric |
 | `Age` | Age in years. | Numeric, positive |
 | `Outcome` | Class variable indicating diabetes outcome. | `0`, `1` |
 | `BMI Category` | Derived BMI grouping created locally from body mass index values. | `underweight`, `normal`, `overweight`, `obese` |
